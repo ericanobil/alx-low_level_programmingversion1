@@ -1,6 +1,6 @@
 /**
   * _strcpy - copy a string
-  * @dest: where to copy to
+  * @dest: destination of copied string
   * @src: string to be copied
   *
   * Return: pointer to dest
